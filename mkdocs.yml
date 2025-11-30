@@ -5,3 +5,8 @@ theme:
   palette:
     scheme: slate
     primary: blue grey
+
+  features:
+    - navigation.tabs
+    - navigation.path
+    - navigation.top
